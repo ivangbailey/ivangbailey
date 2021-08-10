@@ -1,5 +1,4 @@
-![Github-Banner-Recovered](https://user-images.githubusercontent.com/16883392/128788883-d6a2aa41-f338-4f5c-ba8a-b2efac81a964.png)
-
+![Github-Banner-Recovered](https://user-images.githubusercontent.com/16883392/128789294-eaecf406-9447-4909-9808-ef949f1db1ac.png)
 
 
 #### Frontend Technologies
