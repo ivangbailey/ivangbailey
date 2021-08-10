@@ -1,3 +1,4 @@
+![Github-Banner-Recovered](https://user-images.githubusercontent.com/16883392/128788883-d6a2aa41-f338-4f5c-ba8a-b2efac81a964.png)
 
 
 
@@ -12,7 +13,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 
-#### Backend Technologies & Databases
+#### Backend & Database Technologies
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
