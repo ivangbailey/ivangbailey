@@ -1,6 +1,5 @@
 ![Github-Banner-Recovered](https://user-images.githubusercontent.com/16883392/128789294-eaecf406-9447-4909-9808-ef949f1db1ac.png)
 
-
 #### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -35,3 +34,7 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+
+------------
+
+### [Connect with me on Linkedin](https://www.linkedin.com/in/ivangbailey/ "Connect with me on Linkedin")
